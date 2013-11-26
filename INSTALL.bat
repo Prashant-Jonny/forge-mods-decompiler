@@ -1,5 +1,9 @@
 @echo off 
 
+mkdir classes
+mkdir modsrc
+mkdir unobf
+
 set XD=%CD%
 set /P MCP=Please enter the path to Forge-MCP on your computer: 
 	
