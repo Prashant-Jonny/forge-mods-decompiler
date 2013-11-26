@@ -1,4 +1,4 @@
-Forge-Mods-Decompiler (Windows version)
+Forge-Mods-Decompiler (Win only)
 =====================
 This project help you to recompile an existing Forge mod.
 
